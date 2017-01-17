@@ -139,7 +139,7 @@ $$P(A|B) = \frac{P(A\cap B)}{P(B)} = P(A)$$
 $A$ and $B$ are (pairwise) *independent* (notation $A \perp B$) if:
 $$P(A \cap B) = P(A)P(B)$$
 
-No requirement for $P(A)$ or $P(B)$ to be positive. In fact $\ldots$ see the suggested problems for Chapter 1.
+No requirement for $P(A)$ or $P(B)$ to be positive. 
 
 $A_1, A_2, A_3, \ldots$ (possibly infinite) are (mutually) *independent* if for any finite subcollection of indices $I = \{i_1,\ldots,i_n\}$:
 $$P\left(\bigcap_{i \in I} A_i\right) = \prod_{i \in I} P(A_i)$$
