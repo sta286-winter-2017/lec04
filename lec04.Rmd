@@ -101,7 +101,7 @@ P(A) &= P(A|B)P(B) + P(A|B^c)P(B^c)\\
 
 \pause The simple formula gets a grandiose title: ***"THE! LAW! OF! TOTAL! PROBABILITY!!!!!"***
 
-Now, in the HIV example, we also might be interested in $P(B|A)$, the chance of an HIV+ person testing positive.
+Now, in the HIV example, we also might be interested in $P(B|A)$, the probability that someone is HIV+ given that they test positive.
 
 ## $P(B|A)$
 
